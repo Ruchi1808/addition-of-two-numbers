@@ -1,0 +1,4 @@
+a=int(input("fisrst number: "))
+b=int(input("second number: "))
+c=a+b
+print(c)
